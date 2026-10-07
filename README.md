@@ -17,8 +17,8 @@
 | Variable | Description | Example |
 | :--- | :--- | :--- |
 | `GITHUB_TOKEN` | Your GitHub Personal Access Token (Need Workflow permission and no expiration) | `ghp_xxxxxxxxxxxx` |
-| `GITHUB_USER` | Your GitHub username | `luxysiv` |
-| `GITHUB_REPO` | The name of your repository | `Cloudflare-Gateway-DNS-Filter` |
+| `GITHUB_USER` | Your GitHub username | `artificialli` |
+| `GITHUB_REPO` | The name of your repository | `Kins-Gateway-DNS-Filter` |
 | `WORKFLOW_ID` | The filename of your workflow | `main.yml` |
 
 * Opt for a private repository when deploying.
